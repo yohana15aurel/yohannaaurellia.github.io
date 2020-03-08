@@ -549,12 +549,17 @@ h2 span{
     font-family: sans-serif;
     margin-left: 10px;
     font-weight:600;
+    color: white;
  }
 
  .detail i{
     color:#fff;
  }
 
+.detail a:hover{
+    text-decoration: none;
+    color: #3498db;
+}
  .fa-phone{
     margin-top:10px; 
  }
